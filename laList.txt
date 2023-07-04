@@ -8,3 +8,8 @@ Negro
 Blanco
 Gris
 Marrón
+Rosa
+Dorado
+Celeste
+Beige
+Turquesa
