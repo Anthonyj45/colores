@@ -13,4 +13,41 @@ Dorado
 Celeste
 Beige
 Turquesa
+Plateado
+Índigo
+Verde lima
+Cian
+Coral
+Magenta
+Azul marino
+Crema
+Borgoña
+Lavanda
+Caqui
+Oliva
+Melocotón
+Lavanda
+Aguamarina
+Amaranto
+Ámbar
+Ámbar oscuro
+Azul aciano
+Azul cielo
+Azul cobalto
+Azul eléctrico
+Azul marino
+Azul medianoche
+Azul oscuro
+Azul real
+Azul turquesa
+Beige claro
+Borgoña
+Burdeos
+Caqui
+Café
+Canela
+Celeste claro
+Cereza
+Cian
+Ciruela
 Floripepeado
